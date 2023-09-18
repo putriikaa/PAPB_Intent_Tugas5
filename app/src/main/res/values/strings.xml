@@ -1,0 +1,5 @@
+<resources>
+    <string name="title">Register</string>
+    <string name="login">Login</string>
+    <string name="homepage">Homepage</string>
+</resources>
